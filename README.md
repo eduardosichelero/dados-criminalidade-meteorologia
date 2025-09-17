@@ -37,6 +37,10 @@ Os dados não estão incluídos no repositório devido ao tamanho dos arquivos. 
 2. Instale as dependências: `pip install pandas numpy unidecode`
 3. Baixe os dados conforme instruções acima
 4. Execute os notebooks Jupyter
+5. Instale as dependências do arquivo `requirements.txt` (opcional):  
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## Status do Projeto
 
