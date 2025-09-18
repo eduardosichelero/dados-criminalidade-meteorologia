@@ -13,6 +13,12 @@ Este projeto tem como objetivo aplicar técnicas de coleta, pré-processamento, 
 | 1135384 | Gabriel Onofre       |
 | 1134821 | Vitor Quadros        |
 
+Divisão das tarefas
+
+Tarefas 1 a 4 - Eduardo e Vitor
+Tarefa 5 - Gabriel D. e Gabriel O.
+Tarefa 6 - Abner e Ariel
+
 ## Descrição
 
 O projeto visa analisar a relação entre dados de criminalidade e condições meteorológicas na cidade de Passo Fundo, utilizando técnicas de ciência de dados para identificar possíveis correlações e padrões.
