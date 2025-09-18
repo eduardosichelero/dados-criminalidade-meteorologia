@@ -15,9 +15,9 @@ Este projeto tem como objetivo aplicar técnicas de coleta, pré-processamento, 
 
 Divisão das tarefas
 
-Tarefas 1 a 4 - Eduardo e Vitor
-Tarefa 5 - Gabriel D. e Gabriel O.
-Tarefa 6 - Abner e Ariel
+- Tarefas 1 a 4 - Eduardo e Vitor
+- Tarefa 5 - Gabriel D. e Gabriel O.
+- Tarefa 6 - Abner e Ariel
 
 ## Descrição
 
